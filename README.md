@@ -4,5 +4,13 @@ Learning how to Use Git and Github
 This is a break line comment
 
 <br>
-<br>
+ppushh
 first Remote commit
+Commands 
+git clone <link of repository>
+git add <filename>  = Adds changes made to the  File , i.e ready to be commited 
+add ->commit->push
+git status          = Status of Repository
+git add .           = Add all changes
+git commit -m"Some Message" = Commits the changes made to the file
+git push origin main = Pushes the changes in the Repository
